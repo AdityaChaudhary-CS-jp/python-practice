@@ -1,0 +1,8 @@
+print('I love India')
+print("I love India")
+print("I 'love' India")
+print("I \'love\' India")
+print('I "love" India')
+print('I \"love\" India')
+print('I "love\' India')
+print("I \"love' India")
