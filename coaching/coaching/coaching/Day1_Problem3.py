@@ -1,0 +1,5 @@
+print('---------')
+print('A\tB')
+print('    C')
+print('D\tE')
+print('.........')
