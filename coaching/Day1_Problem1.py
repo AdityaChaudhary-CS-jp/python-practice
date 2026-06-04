@@ -1,0 +1,5 @@
+print('hello from', end = '---> ')
+print('Python', end = ' ')
+print('at')
+print('IIC', end = ' @ ')
+print('agra')
