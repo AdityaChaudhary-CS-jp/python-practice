@@ -1,0 +1,8 @@
+# Problem52
+a = int(input('Enter 1st side : '))
+b = int(input('Enter 2nd side : '))
+c = int(input('Enter 3rd side : '))
+if ((a+b)>=c and (b+c)<a) or ((a+c)>=b and (a+b)<b) or ((b+c)>=a and (c+a)<b) :
+    print('It is Triangle')
+else:
+    print('It is not Triangle')
