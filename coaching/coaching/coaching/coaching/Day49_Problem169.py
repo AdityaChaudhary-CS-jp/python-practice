@@ -1,0 +1,12 @@
+# Problem169
+a = input('Enter the Word = ')
+print(a.upper())
+print(a.lower())
+print(a.capitalize())
+print(a.title())
+print(a.swapcase())
+print(a.isupper())
+print(a.islower())
+print(a.istitle())
+print(a.isdigit())
+print(a.isalnum())
